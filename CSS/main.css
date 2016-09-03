@@ -1,0 +1,257 @@
+/*Body*/
+body {
+	margin: 0 auto;
+}
+
+
+/*Header Section*/
+#idea {
+	background-color: #352d2f;
+	color: #fff;
+	font-family: 'Teko', sans-serif;
+	min-height: 600px;
+	position: relative;
+	text-align: center;
+}
+
+#idea h1 {
+	color: #fff;
+	font-size: 80px;
+	letter-spacing: 5px;
+	margin: 0 auto;
+	width: 60%;
+	padding: 15% 0 5%;
+	
+}
+
+#idea button {
+	text-align: center;
+	background-color: #352d2f;
+	border-color: #fff;
+	color: #fff;
+	border: 1px solid #fff;
+	height: 30px
+	width:30px;
+	margin-bottom:10px;
+}
+
+#idea button i {
+	color: red;
+}
+
+#idea #projects {
+	color: #fff;
+	margin-top: 30px;
+}
+
+#idea a {
+	color: #fff;
+	text-decoration: none;
+	bottom: 30px;
+	color: inherit;
+	display: block;
+	position: absolute;
+	width: 100%;
+}
+
+#idea p {
+	font-size: 16px;
+	margin-top: 5px;
+}
+
+#explore {
+	height: 240px;
+	text-align: center;
+	width: 60%;
+	margin: 0 auto;
+	font-family: 'Teko', sans-serif;
+	padding: 4% 0;
+}
+
+#explore h1 {
+	font-size:35px;
+	letter-spacing: 5px;
+
+}
+
+#explore button{ 
+	background-color: #F63C3C;
+	color: #fff;
+	border: none;
+	padding: 10px 15px;
+}
+/*Projects Section*/
+#projects {
+	color: #fff;
+	font-family: 'Teko', sans-serif;
+	height: 600px;
+}
+
+/*Red Section */
+.red {
+	background-color:  #f63c3c;
+	float: left;
+	height: 500px;
+	width: 40%;
+	padding:60px;
+	line-height:1.4;
+	display: inline-block;
+}
+
+.red h3 {
+	font-size: 15px;
+}
+
+.red h1 {
+	font-size: 30px;
+	letter-spacing: 4px;
+}
+
+.red p {
+	font-family: 'Titillium Web', sans-serif;
+	font-size:12px;
+	line-height: 20px;
+	width: 50%;
+}
+/*Model S Section*/
+.grey {
+	background-color: #352D2F;
+	height: 275px;
+	float: right;
+	width: 50%;
+	display: block;
+}
+
+.grey h1 {
+	font-size: 30px;
+	letter-spacing: 4px;
+	color: #fff;
+	padding: 60px 60px 0px 60px;
+	margin-bottom: 0px;
+}
+
+.grey p {
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 12px;
+	color: #fff;
+	width:45%;
+	padding: 0px 50px 0px 50px;
+	margin-top: 0px;
+	margin-left: 10px;
+}
+
+/*final seciton*/
+.black {
+	background-color: #30282A;
+	height: 345px;
+	float: right;
+	width: 50%;
+	display: block;
+}
+
+.black h1 {
+	font-size: 30px;
+	letter-spacing: 4px;
+	color: #fff;
+	padding: 60px 60px 0px 60px;
+	margin-bottom: 0px;
+}
+
+.black p {
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 12px;
+	color: #fff;
+	width:45%;
+	padding: 0px 50px 0px 50px;
+	margin-top: 0px;
+	margin-left: 10px;
+}
+/*Bottom Section*/
+.bottom {
+	background-color: #30282A;
+	height: 50px;
+	width: 100%;
+	display: inline-block;
+	text-align: center;
+	padding: 10px 0;
+}
+
+.bottom a {
+	font-family: 'Teko', sans-serif;
+	font-size: 15px;
+	color: #fff;
+	padding: 0px 10px 10px 10px;
+	height: 10px;
+	width: 100%;
+}
+
+/*cube and castle section*/
+
+#info {
+	background-color: #fafafa;
+	font-family: 'Teko', sans-serif;
+	padding: 150px 0;
+	display: block;
+}
+
+#info div {
+	display: inline-block;
+	margin-left: 7%;
+	width: 35%;
+}
+
+#info div:first-child {
+	margin-left:10%;
+}
+
+#info h3 {
+	margin-left:0;
+}
+
+#info p {
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 14px;
+}
+
+#info i {
+	color: #f63c3c;
+}
+
+/*Section for Social icons*/
+#social { 
+	background-color: #fafafa;
+	padding: 3% 0;
+}
+
+#social > div {
+	margin: 0 auto;
+	width: 80%;
+}
+
+#social h2 {
+	font-family: 'Teko', sans-serif;
+	font-size: 30px;
+	margin: 0;
+}
+
+#social h3 {
+	margin: 0;
+}
+
+#social p {
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 14px;
+	margin: 0 0 1%;
+}
+
+#social-icons > a {
+	background-color: #30282a;
+    color: #fff;
+    display: inline-block;
+    padding: 40px 60px;
+    text-align: center;
+}
+
+#social-icons > a:nth-child(n+2) {
+	margin-left: 2%;
+
